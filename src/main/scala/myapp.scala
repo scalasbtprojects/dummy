@@ -25,6 +25,7 @@ object MyApp
 			|<vbox>
 			|<tabpane id="{maintabpane}">
 			|<tab caption="Main">
+			|<label text="Welcome"/>
 			|</tab>
 			|<tab caption="Systemlog">
 			|<webview id="{systemlog}"/>
